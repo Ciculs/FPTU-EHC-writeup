@@ -12,6 +12,5 @@
   **EHC{cookie}**
 
 - **Web 04**
-  các thư mục con nằm bên trong root directory được gọi là gì?
-
-- 
+  Các thư mục con nằm bên trong root directory được gọi là gì?
+  **EHC{subdirectory}**

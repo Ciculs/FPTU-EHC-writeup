@@ -95,7 +95,7 @@
 
   > Tiếp theo dùng cyberchef và ROT13 để giải flag
   >
-  > ![EHC{M3t4d4t4_w1th_sw4n}](imgs/ROT13.png)
+  > ![EHC{M3t4d4t4_w1th_sw4n}](imgs/rot13.png)
 
   ****EHC{M3t4d4t4_w1th_sw4n}**
 

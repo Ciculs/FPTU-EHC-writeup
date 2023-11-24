@@ -34,4 +34,4 @@
 - **Hidden text!!!**
   Find hidden text in this [web](http://206.189.35.36:30005/)
 
-  > Trong web có đưa ra gợi ý ""
+  > Trong web có đưa ra gợi ý "I need to find some robots" , vì vậy flag có thể đang nằm tại file robots.txt, kiểm tra thử , có thể thấy đó

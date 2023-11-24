@@ -144,6 +144,8 @@
 
     > Đọc src code thì nhập được 0x30 = 48 kí tự.
 
-  ## Reverse Engineering
+## Reverse Engineering
 
+```
   > **Hầu như các bài trong RE e đều dùng Chatgpt và không nhớ kết quả!!!**
+```

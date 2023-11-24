@@ -36,5 +36,7 @@
 
   > Trong web có đưa ra gợi ý "I need to find some robots" , vì vậy flag có thể đang nằm tại file robots.txt, kiểm tra thử , có thể thấy flag ở đó.
   >
-  > ![EHC{Control_You_is_so_powerful}](imgs/ctrlu.png)
+  > ![EHC{Robots_txt_can_be_useful_in_many_case}](imgs/robots.png)
 
+
+- **Senna-Qiyana-Lucian**

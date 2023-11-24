@@ -147,5 +147,6 @@
 ## Reverse Engineering
 
 ```
-  > **Hầu như các bài trong RE e đều dùng Chatgpt và không nhớ kết quả!!!**
+>
+ Hầu như các bài trong RE e đều dùng Chatgpt và không nhớ kết quả!!!
 ```

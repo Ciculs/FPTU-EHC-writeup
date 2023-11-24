@@ -28,7 +28,7 @@
 
   > Bằng ctrl + u , ta có thể dễ dàng lấy được flag
   >
-  > ![](imgs/ctrlu.png)
+  > ![EHC{Control_You_is_so_powerful}](imgs/ctrlu.png)
 
 
 - **Hidden text!!!**

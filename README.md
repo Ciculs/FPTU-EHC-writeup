@@ -50,3 +50,6 @@
 ## Crypto
 
 - **Basic_XOR**
+  Cho b=181611 và c=520999. Tìm a sao cho a^b=c?
+
+  > a^b=c --&gt;

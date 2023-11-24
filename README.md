@@ -131,9 +131,6 @@
   > Có PIE và NX đang được bật
 
   - Binary Exploit 04
-
-  > **EHC{vuln_puts}**
-  > Do puts không giới hạn giá trị nhập
-
+    **EHC{vuln_puts}**
   - Binary Exploit 05
     **Đã quên:)))**

@@ -30,5 +30,3 @@
   >
   > ![](imgs/ctrlu.png)
 
-  > ![](screenshots/Screenshot_59.png)
-

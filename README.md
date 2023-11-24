@@ -140,3 +140,4 @@
 
     **Đã quên:)))**
   - Binary Exploit 06
+    Chạy file source trên linux. Tiến hành nhập input vào trường _name_. Bạn có thể nhập được tối đa bao nhiêu kí tự ?

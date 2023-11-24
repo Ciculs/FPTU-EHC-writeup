@@ -1,4 +1,4 @@
-<h1 align="center"> :metal: CTF-Writeup :metal: </h1>
+<h1 align="center"> :metal: EHC Qual Writeup :metal: </h1>
 
 ## WEB
 

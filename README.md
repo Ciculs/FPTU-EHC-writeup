@@ -24,3 +24,4 @@
   **EHC{burpsuite}**
 
 - **C0ntr0l U**
+  Flag đã bị giấu ở đâu đó trong trang web này, hãy check thật kĩ mọi nơi mà bạn có thể check!!!

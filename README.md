@@ -25,5 +25,17 @@
 
 - **C0ntr0l U**
   Flag đã bị giấu ở đâu đó trong trang web[web](http://206.189.35.36:30001) này, hãy check thật kĩ mọi nơi mà bạn có thể check!!!
+  &lt;Holocron.Steps cols={2}&gt;
 
-  /holo
+  ## Step 1
+
+  This is the first step
+
+  ## Step 2
+
+  This is the second step
+
+  ## Step 3
+
+  This is the third step
+  &lt;/Holocron.Steps&gt;

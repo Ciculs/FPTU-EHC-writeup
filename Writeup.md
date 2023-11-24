@@ -1,1 +1,0 @@
-# FPTU-EHC-writeup

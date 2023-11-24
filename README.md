@@ -91,5 +91,6 @@
 
   > Dùng python để trừ kí tự, kết quả là 13
   >
-  > ![13]()
+  > ![13](imgs/pheptru.png)
 
+  > Tiếp theo dùng cyberchef và ROT

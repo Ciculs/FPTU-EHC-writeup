@@ -46,3 +46,7 @@
   >
   > ![EHC{just_a_simple_payload}](imgs/sqli.png)
 
+
+## Crypto
+
+- **Basic_XOR**

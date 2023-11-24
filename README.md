@@ -112,4 +112,4 @@
 - Binary Exploit 02
   Arch của file source là gì?
 
-  > Tương tự như B
+  > Tương tự như BE1 , ta dùng "checksec" để kiểm tra Arch của source

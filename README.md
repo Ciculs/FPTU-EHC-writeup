@@ -70,4 +70,5 @@
   Bạn có biết câu lệnh có thể xem được metadata?
 
   **EHC{exiftool}**
-- \*\*
+- **Hello Shark**
+  File PCAP là loại file gì?

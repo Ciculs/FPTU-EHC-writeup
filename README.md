@@ -149,3 +149,5 @@
 > **Hầu như các bài trong RE e đều dùng Chatgpt và không nhớ kết quả!!!**
 
 ## Bonus
+
+- **Base_Encode**

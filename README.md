@@ -74,4 +74,8 @@
   File PCAP là loại file gì?
 
   **EHC{packetcapturedata}**
+- **Oh! Shark is cute!**
+  Mình muốn xem được file PCAP thì cần phải sử dụng tool nào thế nhỉ?
+
+  **EHC{wireshark}**
 - \*\*

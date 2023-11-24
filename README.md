@@ -57,3 +57,7 @@
   **EHC{341580}**
 
 ## Forensic
+
+- **Comment command**
+  Bạn có biết câu lệnh có thể xem được metadata?
+  \*\*EHC{exif}

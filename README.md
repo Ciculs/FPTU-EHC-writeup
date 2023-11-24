@@ -119,3 +119,9 @@
 
   - Binary Exploit 03
     Có những chế độ bảo vệ nào được bật (enabled) trên file source?
+
+  > Tương tự như BE2 , ta dùng "checksec" để kiểm tra Arch của source
+  >
+  > ![checksec](imgs/checksec.png)
+
+  > Có PIE và

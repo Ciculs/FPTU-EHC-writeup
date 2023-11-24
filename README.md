@@ -114,5 +114,8 @@
 
   > Tương tự như BE1 , ta dùng "checksec" để kiểm tra Arch của source
   >
-  > ![checksec]()
+  > ![checksec](imgs/checksec.png)
 
+
+  - Binary Exploit 03
+    Có những chế độ bảo vệ nào được bật (enabled) trên file source?

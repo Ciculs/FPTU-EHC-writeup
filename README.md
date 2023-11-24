@@ -27,3 +27,6 @@
   Flag đã bị giấu ở đâu đó trong trang [web](http://206.189.35.36:30001) này, hãy check thật kĩ mọi nơi mà bạn có thể check!!!
 
   > Bằng ctrl + u , ta có thể dễ dàng lấy được flag
+  >
+  > ![](https://holocron.so/tutorial/meme.jpeg)
+

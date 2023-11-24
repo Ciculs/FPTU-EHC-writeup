@@ -21,5 +21,6 @@
 
 - **Web 06**
   Bạn có biết tên của bộ công cụ bảo mật ứng dụng web được phát triển bởi PortSwigger không?
+  **EHC{burpsuite}**
 
 - **Web 05**

@@ -89,15 +89,18 @@
   >
   > ![RUP{Z3g4q4g4_j1gu_fj4a}](imgs/exif.png)
 
+
   > Dùng python để trừ kí tự, kết quả là 13
   >
   > ![13](imgs/pheptru.png)
+
 
   > Tiếp theo dùng cyberchef và ROT13 để giải flag
   >
   > ![EHC{M3t4d4t4_w1th_sw4n}](imgs/rot13.png)
 
-  ****EHC{M3t4d4t4_w1th_sw4n}**
+
+  \*\***EHC{M3t4d4t4_w1th_sw4n}**
 
 ## Binary Exploit
 
@@ -124,9 +127,12 @@
   >
   > ![checksec](imgs/checksec.png)
 
+
   > Có PIE và NX đang được bật
 
   - Binary Exploit 04
+
+  > **EHC{vuln_puts}**
 
   - Binary Exploit 05
     **Đã quên:)))**

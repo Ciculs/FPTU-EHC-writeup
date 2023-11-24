@@ -104,10 +104,12 @@
 - Binary Exploit 01
   File source thuộc loại file nào?
 
-  > D
+  > Dùng "file" để check loại file của source
   >
   > ![file](imgs/file.png)
 
 
 - Binary Exploit 02
   Arch của file source là gì?
+
+  > Tương tự như B

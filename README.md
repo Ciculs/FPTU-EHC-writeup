@@ -8,6 +8,7 @@
 
 - **Web 02**
   Có một tệp văn bản đặt ở gốc trang web và chứa các chỉ thị cho các robots.Tìm ra tên của file đang được nói ở trên!
+
   **EHC{robots.txt}**
 
 - **Web 03**

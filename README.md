@@ -84,3 +84,5 @@
   **EHC{89504E470D0A1A0A}**
 - **Comment more command**
   Bức ảnh này có gì thú vị không nhỉ?
+
+  > Nhìn qua thì là bức ảnh thiên nga bình thường

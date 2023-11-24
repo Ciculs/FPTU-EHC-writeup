@@ -133,6 +133,7 @@
   - Binary Exploit 04
 
   > **EHC{vuln_puts}**
+  > Do puts không giới hạn giá trị nhập
 
   - Binary Exploit 05
     **Đã quên:)))**

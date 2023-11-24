@@ -102,9 +102,10 @@
 ## Binary Exploit
 
 - Binary Exploit 01
-  Trước khi bắt đầu trả lời câu hỏi. Hãy tải 2 file đính kèm bên dưới và sử dụng chúng để trả lời
   File source thuộc loại file nào?
 
+  > D
+  >
   > ![file](imgs/file.png)
 
 

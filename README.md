@@ -134,6 +134,8 @@
     Trong hàm main, hàm nào là nguyên nhân chính xảy ra lỗi và câu lệnh nào là yếu tố gây lỗi trong bài này.
 
     **EHC{vuln_puts}**
+
+    > puts gây lỗi do không giới hạn kí tự nhập.
   - Binary Exploit 05
     **Đã quên:)))**
   - Binary Exploit 05

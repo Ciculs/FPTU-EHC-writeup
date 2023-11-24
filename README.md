@@ -28,5 +28,5 @@
 
   > Bằng ctrl + u , ta có thể dễ dàng lấy được flag
   >
-  > ![](https://holocron.so/tutorial/meme.jpeg)
+  > ![](https://github.com/Ciculs/FPTU-EHC-writeup/blob/main/imgs/ctrlu.png)
 

@@ -188,3 +188,6 @@ print("Decrypted message:", decrypted_message.decode('utf-8'))
 ```
 
 > Ta giải ra được đáp án
+>
+> ![EHC{B4s3_32_1s_4s_g00d_4s_B4s3_64!!!}](imgs/base.png)
+

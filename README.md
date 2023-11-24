@@ -13,18 +13,22 @@
 
 - **Web 03**
   Với 1 website làm bài thi online, ta sẽ lưu bài làm chưa hoàn thiện của thí sinh vào session hay cookie?
+
   **EHC{cookie}**
 
 - **Web 04**
   Các thư mục con nằm bên trong root directory được gọi là gì?
+
   **EHC{subdirectory}**
 
 - **Web 05**
   Tên của cách thức tấn công thực thi mã từ xa là gì?
+
   **EHC{RCE}**
 
 - **Web 06**
   Bạn có biết tên của bộ công cụ bảo mật ứng dụng web được phát triển bởi PortSwigger không?
+
   **EHC{burpsuite}**
 
 - **C0ntr0l U**
@@ -64,5 +68,6 @@
 
 - **Comment command**
   Bạn có biết câu lệnh có thể xem được metadata?
+
   **EHC{exiftool}**
 - \*\*

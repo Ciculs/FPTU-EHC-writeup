@@ -16,7 +16,8 @@
   **EHC{subdirectory}**
 
 - **Web 05**
-  . Tên của cách thức tấn công thực thi mã từ xa là gì?
+  Tên của cách thức tấn công thực thi mã từ xa là gì?
+  **EHC{RCE}**
 
 - **Web 06**
 

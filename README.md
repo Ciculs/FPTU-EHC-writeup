@@ -136,7 +136,7 @@
     **EHC{vuln_puts}**
 
     > puts gây lỗi do không giới hạn kí tự nhập.
-  - Binary Exploit 05
+  - **Binary Exploit 05**
 
     **Đã quên:)))**
   - **Binary Exploit 06**

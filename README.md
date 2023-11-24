@@ -14,3 +14,9 @@
 - **Web 04**
   Các thư mục con nằm bên trong root directory được gọi là gì?
   **EHC{subdirectory}**
+
+- **Web 05**
+
+- **Web 06**
+
+- **Web 05**

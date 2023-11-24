@@ -24,4 +24,4 @@
   **EHC{burpsuite}**
 
 - **C0ntr0l U**
-  Flag đã bị giấu ở đâu đó trong trang web này, hãy check thật kĩ mọi nơi mà bạn có thể check!!!
+  Flag đã bị giấu ở đâu đó trong trang web[infamous blog post](https://samcurry.net/hacking-apple/) này, hãy check thật kĩ mọi nơi mà bạn có thể check!!!

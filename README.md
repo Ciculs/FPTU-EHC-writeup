@@ -152,35 +152,37 @@
 
 - **Base_Encode**
 
-  ```text
-  import base64
-  
-  def caesar_decipher_bytes(data, shift):
-      result = []
-      for byte in data:
-          if 65 <= byte <= 90:
-              result.append((byte - 65 - shift) % 26 + 65)
-          elif 97 <= byte <= 122:
-              result.append((byte - 97 - shift) % 26 + 97)
-          elif 48 <= byte <= 57:
-              result.append((byte - 48 - shift) % 10 + 48)
-          else:
-              result.append(byte)
-      return result
-  
-  # Read the hexadecimal representation from the file
-  with open("cipher.txt", "r") as file:
-      cipher_hex = file.read()
-  
-  # Convert the hexadecimal string back to bytes
-  cipher_bytes = bytes.fromhex(cipher_hex)
-  
-  # Reverse the Caesar cipher with a shift of -17
-  deciphered_caesar = caesar_decipher_bytes(cipher_bytes, 17)
-  
-  # Base32hex decode the result to obtain the original message
-  decrypted_message = base64.b32hexdecode(bytes(deciphered_caesar))
-  
-  # Print the decrypted message
-  print("Decrypted message:", decrypted_message.decode('utf-8'))
-  ```
+> Viết lại 1 đoạn code bằng python , ta
+
+```python
+import base64
+
+def caesar_decipher_bytes(data, shift):
+    result = []
+    for byte in data:
+        if 65 <= byte <= 90:
+            result.append((byte - 65 - shift) % 26 + 65)
+        elif 97 <= byte <= 122:
+            result.append((byte - 97 - shift) % 26 + 97)
+        elif 48 <= byte <= 57:
+            result.append((byte - 48 - shift) % 10 + 48)
+        else:
+            result.append(byte)
+    return result
+
+# Read the hexadecimal representation from the file
+with open("cipher.txt", "r") as file:
+    cipher_hex = file.read()
+
+# Convert the hexadecimal string back to bytes
+cipher_bytes = bytes.fromhex(cipher_hex)
+
+# Reverse the Caesar cipher with a shift of -17
+deciphered_caesar = caesar_decipher_bytes(cipher_bytes, 17)
+
+# Base32hex decode the result to obtain the original message
+decrypted_message = base64.b32hexdecode(bytes(deciphered_caesar))
+
+# Print the decrypted message
+print("Decrypted message:", decrypted_message.decode('utf-8'))
+```

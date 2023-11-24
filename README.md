@@ -60,4 +60,5 @@
 
 - **Comment command**
   Bạn có biết câu lệnh có thể xem được metadata?
-  \*\*EHC{exif}
+  **EHC{exiftool}**
+- \*\*

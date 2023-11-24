@@ -10,3 +10,8 @@
 - **Web 03**
   Với 1 website làm bài thi online, ta sẽ lưu bài làm chưa hoàn thiện của thí sinh vào session hay cookie?
   **EHC{cookie}**
+
+- **Web 04**
+  các thư mục con nằm bên trong root directory được gọi là gì?
+
+- 

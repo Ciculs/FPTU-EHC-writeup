@@ -93,4 +93,7 @@
   >
   > ![13](imgs/pheptru.png)
 
-  > Tiếp theo dùng cyberchef và ROT
+  > Tiếp theo dùng cyberchef và ROT13 để giải flag
+  >
+  > ![EHC{M3t4d4t4_w1th_sw4n}]()
+

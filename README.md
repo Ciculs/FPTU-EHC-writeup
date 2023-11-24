@@ -152,7 +152,7 @@
 
 - **Base_Encode**
 
-> Viết lại 1 đoạn code bằng python , ta
+> Viết lại 1 đoạn code bằng python
 
 ```python
 import base64
@@ -186,3 +186,5 @@ decrypted_message = base64.b32hexdecode(bytes(deciphered_caesar))
 # Print the decrypted message
 print("Decrypted message:", decrypted_message.decode('utf-8'))
 ```
+
+> Ta giải ra được đáp án

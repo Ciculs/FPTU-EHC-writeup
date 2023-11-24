@@ -64,8 +64,6 @@
 
   **EHC{341580}**
 
-- Bonus:
-
 ## Forensic
 
 - **Comment command**
@@ -149,3 +147,5 @@
 ## Reverse Engineering
 
 > **Hầu như các bài trong RE e đều dùng Chatgpt và không nhớ kết quả!!!**
+
+## Bon

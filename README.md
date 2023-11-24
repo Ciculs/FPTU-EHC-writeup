@@ -131,6 +131,8 @@
   > Có PIE và NX đang được bật
 
   - Binary Exploit 04
+    Trong hàm main, hàm nào là nguyên nhân chính xảy ra lỗi và câu lệnh nào là yếu tố gây lỗi trong bài này.
+
     **EHC{vuln_puts}**
   - Binary Exploit 05
     **Đã quên:)))**

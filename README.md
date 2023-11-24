@@ -89,3 +89,7 @@
   >
   > ![RUP{Z3g4q4g4_j1gu_fj4a}](imgs/exif.png)
 
+  > Dùng python để trừ kí tự, kết quả là 13
+  >
+  > ![13]()
+

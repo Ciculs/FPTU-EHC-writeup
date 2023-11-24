@@ -151,3 +151,7 @@
 ## Bonus
 
 - **Base_Encode**
+
+  ```text
+  
+  ```

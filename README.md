@@ -42,4 +42,4 @@
 - **Senna-Qiyana-Lucian**
   Login in to this [web](http://206.189.35.36:30004/) as candidate to get the flag!
 
-  > Nhìn thoáng qua thì nó là 1 trang login bình thường , thử SQLI bằng dấu " ' '"
+  > Nhìn thoáng qua thì nó là 1 trang login bình thường , thử SQLI bằng dấu nháy đơn ( ' ), ta thấy được sq

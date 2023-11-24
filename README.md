@@ -81,4 +81,4 @@
 - **Hexi Swan**
   Hex signature header of image encoded in the Portable Network Graphics format
 
-  \*\*
+  **EHC{89504E470D0A1A0A}**

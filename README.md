@@ -20,6 +20,6 @@
   **EHC{RCE}**
 
 - **Web 06**
-  Bạn có biết tên của nó không?
+  Bạn có biết tên của bộ công cụ bảo mật ứng dụng web được phát triển bởi PortSwigger không?
 
 - **Web 05**

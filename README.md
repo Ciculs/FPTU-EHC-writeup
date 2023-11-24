@@ -125,3 +125,7 @@
   > ![checksec](imgs/checksec.png)
 
   > Có PIE và NX đang được bật
+
+  - Binary Exploit 04
+
+  - Binary Exploit 05

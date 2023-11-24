@@ -104,7 +104,7 @@
 
 ## Binary Exploit
 
-- Binary Exploit 01
+- **Binary Exploit 01**
   File source thuộc loại file nào?
 
   > Dùng "file" để check loại file của source
@@ -112,7 +112,7 @@
   > ![file](imgs/file.png)
 
 
-- Binary Exploit 02
+- **Binary Exploit 02**
   Arch của file source là gì?
 
   > Tương tự như BE1 , ta dùng "checksec" để kiểm tra Arch của source
@@ -120,7 +120,7 @@
   > ![checksec](imgs/checksec.png)
 
 
-  - Binary Exploit 03
+  - **Binary Exploit 03**
     Có những chế độ bảo vệ nào được bật (enabled) trên file source?
 
   > Tương tự như BE2 , ta dùng "checksec" để kiểm tra protector của source
@@ -130,7 +130,7 @@
 
   > Có PIE và NX đang được bật
 
-  - Binary Exploit 04
+  - **Binary Exploit 04**
     Trong hàm main, hàm nào là nguyên nhân chính xảy ra lỗi và câu lệnh nào là yếu tố gây lỗi trong bài này.
 
     **EHC{vuln_puts}**

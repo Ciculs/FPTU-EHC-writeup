@@ -52,4 +52,5 @@
 - **Basic_XOR**
   Cho b=181611 và c=520999. Tìm a sao cho a^b=c?
 
-  > a^b=c --&gt;
+  > a^b=c --&gt; c^b=a
+  > \*\*EHC{}

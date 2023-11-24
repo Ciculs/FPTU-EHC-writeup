@@ -85,4 +85,5 @@
 - **Comment more command**
   Bức ảnh này có gì thú vị không nhỉ?
 
-  > Nhìn qua thì là bức ảnh thiên nga bình thường, check metadata thì thấy o
+  > Nhìn qua thì là bức ảnh thiên nga bình thường, check metadata thì thấy ở phần artist có flag
+  > !\[flag\]

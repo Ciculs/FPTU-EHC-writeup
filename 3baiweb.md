@@ -54,4 +54,5 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 >
 > ![img](/imgs/crawl.png)
 
+> Để chắc chắn hơn
 > `EHC{T_love=Dat-3107}`

@@ -21,4 +21,4 @@ Sau khi tra google thì e biết có 1 phương pháp encode base64 bằng php
 
 > server vẫn trả về `{"content":"Invalid content"}` do trong request có chứa cụm "PHP", đã blacklist .
 
-Sau 1 hồi tra google th
+Sau 1 hồi tra google thì e lạI biết được json có escape char:

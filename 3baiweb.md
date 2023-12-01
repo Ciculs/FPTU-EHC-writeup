@@ -58,4 +58,4 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 >
 > ![img](/imgs/httphistory.png)
 
-> `EHC{T_love=Dat-3107}`
+> FLAG: `EHC{T_love=Dat-3107}`

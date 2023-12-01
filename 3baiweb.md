@@ -45,4 +45,4 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 
 ### WEB 2:
 
-### WEB 3:
+### WEB 3:(cách làm của em không hay lắm nma kết qua)

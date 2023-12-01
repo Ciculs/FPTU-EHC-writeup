@@ -51,4 +51,4 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 
 > `https://web3.ehc-fptu.club/1 --> https://web3.ehc-fptu.club/api/viewflag`
 > Điều tương tự cũng xảy ra với 3 và 0. Nhưng 2 và 4 lại not found. Vì vậy em vào burp và thấy các trang liên tục redirrect theo thứ tự và về 0.
-> Dùng công cụ Crawer
+> Dùng công cụ Crawl của burp , có flag:

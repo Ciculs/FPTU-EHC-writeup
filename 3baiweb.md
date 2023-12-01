@@ -8,6 +8,7 @@
 >
 > ![img](/imgs/response.png)
 
+
 > `{"content":"Invalid content"}`
 >
-> `do trong flag có `
+> do trong flag có EHC , đã blacklist.

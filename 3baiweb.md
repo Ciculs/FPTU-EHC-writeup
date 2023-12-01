@@ -1,4 +1,4 @@
-## CÁCH LÀM
+## SOLVE
 
 ### WEB 1:
 
@@ -43,6 +43,6 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 
 > FLAG: `EHC{w3lc0m3_w3b_w4rrj0rs}`
 
-## WEB 2:
+### WEB 2:
 
-## WEB 3:
+### WEB 3:

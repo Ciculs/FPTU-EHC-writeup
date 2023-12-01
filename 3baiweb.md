@@ -13,4 +13,4 @@
 >
 > do trong flag có "EHC" , đã blacklist.
 
-Sau khi tra google thì e biết có 1 phu
+Sau khi tra google thì e biết có 1 phương pháp encode base64 bằng php

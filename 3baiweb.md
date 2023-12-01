@@ -54,5 +54,6 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 >
 > ![img](/imgs/crawl.png)
 
-> Để chắc chắn hơn
+> Để chắc chắn hơn , e dùng HTTP History của burp, có flag:
+>
 > `EHC{T_love=Dat-3107}`

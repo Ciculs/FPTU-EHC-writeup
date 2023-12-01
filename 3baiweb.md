@@ -23,3 +23,4 @@ Sau khi tra google thì e biết có 1 phương pháp encode base64 bằng php
 
 Sau 1 hồi tra google thì e lạI biết được json có escape char:
 `\u+4-digits-hex`
+--&gt; có

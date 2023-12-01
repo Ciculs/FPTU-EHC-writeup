@@ -16,4 +16,6 @@
 Sau khi tra google thì e biết có 1 phương pháp encode base64 bằng php
 
 > Gửi lại request cho server.
-> !ơ
+>
+> ![img](/imgs/invalidreq.png)
+

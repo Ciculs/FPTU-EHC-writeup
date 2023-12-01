@@ -33,3 +33,7 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 ```
 
 > Gửi lại cho server , ta được flag :
+>
+> ![img](/imgs/flag.png)
+
+> Dè

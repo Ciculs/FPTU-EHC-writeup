@@ -36,6 +36,7 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 >
 > ![img](/imgs/flag.png)
 
+> `{"content":"RUhDe3czbGMwbTNfdzNiX3c0cnJqMHJzfQo="}`
 > Decode base64 , có
 >
 > ![img](/imgs/flagdecoded.png)

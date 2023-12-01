@@ -47,4 +47,4 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 
 ### WEB 3:( cách làm của em không hay lắm nma kết quả đúng:)))) )
 
-Đầu tiên , em thử
+Đầu tiên , em thử vào từng path của site ,

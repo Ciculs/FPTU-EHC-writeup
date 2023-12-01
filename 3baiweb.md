@@ -41,4 +41,8 @@ Sau 1 hồi tra google thì e lạI biết được json có escape char:
 >
 > ![img](/imgs/flagdecoded.png)
 
-> `EHC{w3lc0m3_w3b_w4rrj0rs}`
+> FLAG: `EHC{w3lc0m3_w3b_w4rrj0rs}`
+
+## WEB 2:
+
+## WEB 3:

@@ -13,4 +13,4 @@
 >
 > do trong flag có "EHC" , đã blacklist.
 
-Sau 1
+Sau khi tra google thì e biết có 1 phu

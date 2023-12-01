@@ -9,3 +9,5 @@
 > ![img](/imgs/response.png)
 
 > `{"content":"Invalid content"}`
+>
+> `do trong flag có `
